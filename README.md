@@ -1,42 +1,28 @@
-<images src='image/IMG_5091.JPG'>
+<img width="90%" src="./images/IMG_5091.JPG"/>
 
+# 안녕하세요 ? (●'◡'●)
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=최강의%20자바개발자&fontSize=90)
+### 백엔드 개발자 (희망) Prayhee입니다.
+중학교 때부터 프로그래머에 관심을 가져했습니다!
+열심히 공부하며 배우겠습니다 ❤
 
-![*'s github stats](https://github-readme-stats.vercel.app/api?username=Prayhee)](https://github.com/Prayhee)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prayhee)](https://github.com/Prayhee/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prayhee &layout=compact)](https://github.com/Prayhee/github-readme-stats)
-
-![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
-![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white)
-![Serverless](https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=Serverless&logoColor=magenta)
-![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
-​
-
-# Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋
 ---
-**bold** <br>
-*italic* <br>
-~~strikethrough~~ <br>
 
-> 인용구
-* 1번
-* 2번
-- 1번
-- 2번
+# 발자취
 
-[네이버이동](https://www.naver.com)
+> 2013 - **공업고등학교 컴퓨터과(졸업) - C, C++, HTML, CSS, JSP<br>
+ >> 정보처리기능사, ITQ엑셀 취득
+ 
+> 2016 - **공학대학교 **공학과(졸업) - HTML, CSS, Python 등
+ >> 2015.8 ~ 2020.2 (주) ** 재직 <br>
+ >> 2020.4 ~ 2021.7 (주) ** 재직
+ 
+ ---
+ 
+# 지식
+> 언어 언어
 
-```
-print("안녕하세요?");
-```
+---
 
-:joy:
+# 연락처
+Email - zoe.ub24@gmail.com
