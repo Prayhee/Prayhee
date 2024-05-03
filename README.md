@@ -25,4 +25,5 @@
 ---
 
 # 연락처
+BLOG - https://prayhee.tistory.com
 Email - zoe.ub24@gmail.com
