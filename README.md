@@ -1,5 +1,3 @@
-<img width="90%" src="./images/IMG_5091.JPG"/>
-
 # 안녕하세요 ? (●'◡'●)
 
 ### Sever Engineer Prayhee입니다.
@@ -21,7 +19,11 @@
 >2023.02 - ** 백엔드 개발자 과정 수료 <br>
 >2024.06 - 정보처리기사 취득 <br>
 >2024.08 - JLPT N5 취득 <br>
- 
+>2024 - SQLD 취득
+>2025 - JLPT N3 취득 <br>
+>2025 - 네트워크관리사 2급 취득 <br>
+>2025 - 리눅스마스터 2급 취득 <br>
+
  ---
  
 # 지식
@@ -30,6 +32,5 @@
 
 ---
 
-# 연락처
+# 블로그
 BLOG - https://prayhee.tistory.com<br>
-Email - zoe.ub24@gmail.com
